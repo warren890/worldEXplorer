@@ -1,0 +1,70 @@
+@media screen and (max-width: 1496px){
+    .deals {
+        width: 64%; 
+    }
+}
+
+
+@media screen and (max-width: 1373px){
+    .deals {
+        width: 70%; 
+    }
+}
+
+
+@media screen and (max-width: 1259px) {
+    header {
+        width: 80%;   
+    }
+.deals {
+    width: 70%;
+}
+.destination {
+    width: 45%;
+    
+  }
+}
+
+
+@media screen and (max-width: 1373px){
+    .deals {
+        width: 70%; 
+    }
+}
+@media screen and (max-width: 1259px) {
+    header {
+        width: 80%;   
+    }
+.deals {
+    width: 70%;
+}
+.destination {
+    width: 45%;
+    
+  }
+}
+
+
+@media screen and (max-width: 1100px) {
+    header {
+        width: 95%;   
+    }
+    header .trip_bx .search_bx {
+       
+        width: 70%; 
+    }
+    header .trip_bx .travel_bx .cards {
+        overflow: auto;
+    }
+    header .trip_bx .travel_bx .cards .card {
+        min-width: 239px;
+        margin-right: 10px;
+    }
+.deals {
+    width: 96%;
+}
+.destination {
+    width: 60%;
+    
+  }
+}

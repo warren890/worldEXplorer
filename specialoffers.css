@@ -1,0 +1,30 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}*/
+.special-offers h3{
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 55px;
+}
+body{
+    background: url(prop118/spec.jpg)no-repeat center/cover;
+    backdrop-filter: blur(4px);
+    padding: 199px;
+}
+.hotel img{
+    width: 500px;
+}
+.flights img:first-child{
+    width: 100%;
+}
+.flights img:last-child{
+    width: 90%;
+    height: auto;
+}
+.ho img{
+    width: 500px;
+}
+
